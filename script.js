@@ -2,9 +2,9 @@
 const chapters = [
     {
         id: 1,
-        title: "Chapter 1: The Beginning",
-        date: "2024-01-01",
-        fileName: "chapter1.html"
+        title: "Chapter 1: Wo Nte Ase",
+        date: "2026-01-07",
+        fileName: "part1.html"
     },
     {
         id: 2,
