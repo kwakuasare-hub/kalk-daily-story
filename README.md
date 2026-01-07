@@ -1,2 +1,2 @@
-# kalk-daily-story
-All items relating to a story website with similar setup as manga or webcomic sites.
+# KALK 
+All unique and intriguing KALK long stories constantly created for your benefit.
